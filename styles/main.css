@@ -492,14 +492,9 @@ progress {
 }
 
 .display-1 {
-  font-size: calc(2.525rem + 15.3vw);
+  font-size: 10vw;
   font-weight: 300;
   line-height: 1.2;
-}
-@media (min-width: 1200px) {
-  .display-1 {
-    font-size: 14rem;
-  }
 }
 
 .display-2 {
